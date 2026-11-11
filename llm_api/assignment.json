@@ -1,0 +1,18 @@
+{
+  "login": "urfu_itis_limits",
+  "branch": "work",
+  "task_type": "incident_analysis",
+  "case_ids": [
+    "07-01",
+    "07-03",
+    "07-04",
+    "07-07",
+    "07-09",
+    "07-13",
+    "07-14",
+    "07-15",
+    "07-18",
+    "07-19"
+  ],
+  "bank_version": 1
+}

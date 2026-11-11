@@ -1,0 +1,11 @@
+{
+  "case_id": "07-14",
+  "status": "invalid_input",
+  "result": null,
+  "error": {
+    "code": "invalid_type"
+  },
+  "meta": {
+    "api_called": false
+  }
+}

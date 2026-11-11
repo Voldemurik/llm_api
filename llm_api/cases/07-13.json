@@ -1,0 +1,10 @@
+{
+  "case_id": "07-13",
+  "task_type": "incident_analysis",
+  "payload": [
+    "не объект"
+  ],
+  "rules": {
+    "unknown_as_null": true
+  }
+}

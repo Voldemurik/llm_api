@@ -1,0 +1,22 @@
+{
+  "mode": "local",
+  "task_type": "incident_analysis",
+  "selected_model": "GigaChat-3-Lightning",
+  "total": 1,
+  "api_calls": 0,
+  "form_pass": 1,
+  "failures": 0,
+  "usage_totals": {
+    "prompt_tokens": null,
+    "completion_tokens": null,
+    "total_tokens": null
+  },
+  "usage_reported_for": 0,
+  "cases": [
+    {
+      "case_id": "07-14",
+      "api_calls": 0,
+      "form_pass": true
+    }
+  ]
+}
